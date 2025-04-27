@@ -32,7 +32,7 @@ const genericTemplate = `
 *    By: $AUTHOR__________________________________  +#+  +:+       +#+         *
 *                                                 +#+#+#+#+#+   +#+            *
 *    Created: $CREATEDAT_________ by $CREATEDBY___     #+#    #+#              *
-*    Updated: $UPDATEDAT_________ by $UPDATEDBY___    ###   ###Mulhouse.fr     *
+*    Updated: $UPDATEDAT_________ by $UPDATEDBY___    ###   ###### Mulhouse.fr *
 *                                                                              *
 ********************************************************************************
 
